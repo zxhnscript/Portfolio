@@ -344,3 +344,9 @@ strong {
     min-height: auto; /* Permite que as colunas cresçam com o conteúdo */
 }
 
+.card.card-rede {
+    background-color: #40444d !important;
+    border: 3px solid #3d63f0f0;
+    border-radius: 10px;
+}
+
